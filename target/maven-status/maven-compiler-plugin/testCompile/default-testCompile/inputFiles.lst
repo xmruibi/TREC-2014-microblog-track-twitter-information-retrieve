@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 D:\workspaces\eclipse\twitter-tools-core\src\test\java\cc\twittertools\download\FetchStatusTest.java
 D:\workspaces\eclipse\twitter-tools-core\src\test\java\cc\twittertools\index\TokenizationTest.java
 D:\workspaces\eclipse\twitter-tools-core\src\test\java\cc\twittertools\search\TrecTopicSetTest.java
+=======
+D:\twitter-tools-core\src\test\java\cc\twittertools\search\TrecTopicSetTest.java
+D:\twitter-tools-core\src\test\java\cc\twittertools\index\TokenizationTest.java
+D:\twitter-tools-core\src\test\java\cc\twittertools\download\FetchStatusTest.java
+>>>>>>> 77e6cf6353c1c507eff481e689084544192dc493

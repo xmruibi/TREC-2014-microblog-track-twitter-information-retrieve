@@ -1,4 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: cc.twittertools.index.TokenizationTest
 -------------------------------------------------------------------------------
+<<<<<<< HEAD
 Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.128 sec
+=======
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.141 sec
+>>>>>>> 77e6cf6353c1c507eff481e689084544192dc493
